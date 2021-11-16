@@ -1,9 +1,9 @@
 # POKEDEX
 
 Nome dos integrantes: 
-- Pessoa 1
-- Pessoa 2
-- Pessoa 3
+- Patricia Silva
+- Ingrid Midori
+- Douglas Rodrigues
 
 Link do Surge: www.link.com.br
 
