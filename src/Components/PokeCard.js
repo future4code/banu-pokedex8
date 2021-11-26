@@ -11,7 +11,11 @@ import {
 const PokeCard = (props) => {
     return(
         <PokemonImg>
-        <Name>{props.name}</Name>
+          <Img
+            src={props.pokemon && props.pokemon.sprites.front_default}
+            alt={props.pokemon.name}
+          />
+          <Name>{props.name}</Name>
       </PokemonImg>
     )
 }
