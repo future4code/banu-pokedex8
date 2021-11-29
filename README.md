@@ -1,16 +1,13 @@
 # POKEDEX
 
-Nome dos integrantes: 
-- Patricia Silva
-- Ingrid Midori
-- Douglas Rodrigues
 
-Link do Surge: www.link.com.br
+### o que está funcionando:
+- O nome dos pokemons;
+- rotas.
 
-O que funciona:
-- Item 1
-- Item 2
+### o que não está funcionando:
+- não conseguimos implementar as imagens, os cards e a pokedéx
 
-O que não funciona: 
-- Item 3
-- Item 4
+Link surge: https://banu-pokedex8.surge.sh/
+
+Imagens:![image](https://user-images.githubusercontent.com/60152991/143943070-3555ad51-d3b6-48de-b491-a5f7ad5dd6d3.png)
